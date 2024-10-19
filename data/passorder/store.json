@@ -1,0 +1,78 @@
+[
+    {
+        "logo": "logo_paris",
+        "brand": "파리바게트",
+        "store": [
+            {
+                "name": "수원역점",
+                "infoList": {
+                    "rating": 4.25,
+                    "review": 87,
+                    "distance": "50m"
+                }
+            },
+            {
+                "name": "부천점",
+                "infoList": {
+                    "rating": 2.25,
+                    "review": 20,
+                    "distance": "150m"
+                }
+            }
+        ]
+    },
+    {
+        "logo": "logo_tencent",
+        "brand": "텐센트 커피",
+        "infoList": {
+            "rating": 3.25,
+            "review": 50,
+            "distance": "82m"
+        }
+    },
+    {
+        "logo": "logo_yogurt",
+        "brand": "요거트 아이스크림",
+        "infoList": {
+            "rating": 4.5,
+            "review": 150,
+            "distance": "120m"
+        }
+    },
+    {
+        "logo": "logo_mammoth",
+        "brand": "매머드 익스프레스 우만점",
+        "infoList": {
+            "rating": 4.25,
+            "review": 87,
+            "distance": "10m"
+        }
+    },
+    {
+        "logo": "logo_banapresso",
+        "brand": "바나프레소 동수원점",
+        "infoList": {
+            "rating": 3.25,
+            "review": 50,
+            "distance": "12m"
+        }
+    },
+    {
+        "logo": "logo_theventi",
+        "brand": "더벤티 아주대 입구점",
+        "infoList": {
+            "rating": 4.5,
+            "review": 150,
+            "distance": "25m"
+        }
+    },
+    {
+        "logo": "logo_tomntoms",
+        "brand": "탐앤탐스 아주대 입구점",
+        "infoList": {
+            "rating": 4.5,
+            "review": 150,
+            "distance": "32m"
+        }
+    }
+]
