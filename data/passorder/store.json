@@ -1,25 +1,13 @@
 [
     {
         "logo": "logo_paris",
-        "brand": "파리바게트",
-        "store": [
-            {
-                "name": "수원역점",
-                "infoList": {
-                    "rating": 4.25,
-                    "review": 87,
-                    "distance": "50m"
-                }
-            },
-            {
-                "name": "부천점",
-                "infoList": {
-                    "rating": 2.25,
-                    "review": 20,
-                    "distance": "150m"
-                }
-            }
-        ]
+        "brand": "파리바게트 수원역점",
+        "infoList": {
+            "rating": 4.25,
+            "review": 87,
+            "distance": "50m"
+        },
+        "badge": ["할인", "적립"]
     },
     {
         "logo": "logo_tencent",
@@ -28,7 +16,8 @@
             "rating": 3.25,
             "review": 50,
             "distance": "82m"
-        }
+        },
+        "badge": ["할인"]
     },
     {
         "logo": "logo_yogurt",
@@ -37,7 +26,8 @@
             "rating": 4.5,
             "review": 150,
             "distance": "120m"
-        }
+        },
+        "badge": ["적립"]
     },
     {
         "logo": "logo_mammoth",
@@ -46,7 +36,8 @@
             "rating": 4.25,
             "review": 87,
             "distance": "10m"
-        }
+        },
+        "badge": ["할인", "적립"]
     },
     {
         "logo": "logo_banapresso",
@@ -55,7 +46,8 @@
             "rating": 3.25,
             "review": 50,
             "distance": "12m"
-        }
+        },
+        "badge": ["할인"]
     },
     {
         "logo": "logo_theventi",
@@ -64,7 +56,8 @@
             "rating": 4.5,
             "review": 150,
             "distance": "25m"
-        }
+        },
+        "badge": ["적립"]
     },
     {
         "logo": "logo_tomntoms",
