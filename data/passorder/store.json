@@ -16,7 +16,8 @@
                 "text": "적립",
                 "color": "pink"
             }
-        ]
+        ],
+        "recent": true
     },
     {
         "logo": "logo_tencent",
@@ -31,7 +32,8 @@
                 "text": "할인",
                 "color": "blue"
             }
-        ]
+        ],
+        "recent": true
     },
     {
         "logo": "logo_yogurt",
@@ -46,7 +48,8 @@
                 "text": "적립",
                 "color": "pink"
             }
-        ]
+        ],
+        "recent": true
     },
     {
         "logo": "logo_mammoth",
@@ -65,7 +68,8 @@
                 "text": "적립",
                 "color": "pink"
             }
-        ]
+        ],
+        "nearby": true
     },
     {
         "logo": "logo_banapresso",
@@ -80,7 +84,8 @@
                 "text": "할인",
                 "color": "blue"
             }
-        ]
+        ],
+        "nearby": true
     },
     {
         "logo": "logo_theventi",
@@ -95,7 +100,8 @@
                 "text": "적립",
                 "color": "pink"
             }
-        ]
+        ],
+        "nearby": true
     },
     {
         "logo": "logo_tomntoms",
@@ -104,6 +110,7 @@
             "rating": 4.5,
             "review": 150,
             "distance": "32m"
-        }
+        },
+        "nearby": true
     }
 ]
