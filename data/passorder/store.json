@@ -7,7 +7,16 @@
             "review": 87,
             "distance": "50m"
         },
-        "badge": ["할인", "적립"]
+        "badge": [
+            {
+                "text": "할인",
+                "color": "blue"
+            },
+            {
+                "text": "적립",
+                "color": "pink"
+            }
+        ]
     },
     {
         "logo": "logo_tencent",
@@ -17,7 +26,12 @@
             "review": 50,
             "distance": "82m"
         },
-        "badge": ["할인"]
+        "badge": [
+            {
+                "text": "할인",
+                "color": "blue"
+            }
+        ]
     },
     {
         "logo": "logo_yogurt",
@@ -27,7 +41,12 @@
             "review": 150,
             "distance": "120m"
         },
-        "badge": ["적립"]
+        "badge": [
+            {
+                "text": "적립",
+                "color": "pink"
+            }
+        ]
     },
     {
         "logo": "logo_mammoth",
@@ -37,7 +56,16 @@
             "review": 87,
             "distance": "10m"
         },
-        "badge": ["할인", "적립"]
+        "badge": [
+            {
+                "text": "할인",
+                "color": "blue"
+            },
+            {
+                "text": "적립",
+                "color": "pink"
+            }
+        ]
     },
     {
         "logo": "logo_banapresso",
@@ -47,7 +75,12 @@
             "review": 50,
             "distance": "12m"
         },
-        "badge": ["할인"]
+        "badge": [
+            {
+                "text": "할인",
+                "color": "blue"
+            }
+        ]
     },
     {
         "logo": "logo_theventi",
@@ -57,7 +90,12 @@
             "review": 150,
             "distance": "25m"
         },
-        "badge": ["적립"]
+        "badge": [
+            {
+                "text": "적립",
+                "color": "pink"
+            }
+        ]
     },
     {
         "logo": "logo_tomntoms",
