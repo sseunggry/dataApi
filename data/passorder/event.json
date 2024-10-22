@@ -1,13 +1,16 @@
 [
     {
+        "id":  "1",
         "txt": "취향을 담은 \n브랜드 상품권",
         "img": "img_event_01.png"
     },
     {
+        "id":  "2",
         "txt": "생일인 친구에게 \n마음을 표현해요",
         "img": "img_event_02.png"
     },
     {
+        "id":  "3",
         "txt": "취향을 담은 \n브랜드 상품권",
         "img": "img_event_03.png"
     }
